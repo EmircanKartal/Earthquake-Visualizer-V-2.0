@@ -10,8 +10,8 @@ An application with an interactive map displaying earthquake data with different
 ![ac1cf49f-7146-4de1-bdf8-483b6bf11196](https://github.com/EmircanKartal/Earthquake-Visualizer-V-2.0/assets/88210656/b2663d5d-7c10-447e-a751-b9337674af8c)
 ![085f37eb-1f6a-4644-9e42-b12944859a54](https://github.com/EmircanKartal/Earthquake-Visualizer-V-2.0/assets/88210656/dc0a611e-9c37-4ced-8ed9-58c6b738c7db)
 ![e71d904c-11a1-4f47-acb4-b656421bf36c](https://github.com/EmircanKartal/Earthquake-Visualizer-V-2.0/assets/88210656/8efecb2a-23fa-42ff-ab46-00d355d13977)
-# What your code can do:
 
+# What Your Code Can Do:
 • Pulls data from the USGS website to gather earthquake information.
 • Utilizes map providers to show maps. By default, it uses Microsoft.RoadProvider(), but you can switch to other map providers as well (as commented in the code).
 • Allows offline functionality through the use of local map tiles.

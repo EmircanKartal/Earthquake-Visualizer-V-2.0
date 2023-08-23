@@ -20,3 +20,5 @@ An application with an interactive map displaying earthquake data with different
 • Classifies earthquake markers by comparing their depths and assigns appropriate colors to them based on the depth range.
 • Customizes markers to visually represent ocean and land earthquakes differently.
 • Offers an intuitive legend that explains the significance of different symbols and colors on the map.
+> An Inheritance Diagram Depicting the Hierarchical Connections
+![image](https://github.com/EmircanKartal/Earthquake-Visualizer-V-2.0/assets/88210656/7e20ac8f-6051-4cce-8158-92fd58359145)

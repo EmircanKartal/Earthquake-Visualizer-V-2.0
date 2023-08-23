@@ -18,7 +18,8 @@ An application with an interactive map displaying earthquake data with different
 • Differentiates earthquake markers based on their magnitude, using distinct symbols for different scales of earthquakes.                                   
 • Classifies earthquake markers by comparing their depths and assigns appropriate colors to them based on the depth range.                            
 • Customizes markers to visually represent ocean and land earthquakes differently.                           
-• Offers an intuitive legend that explains the significance of different symbols and colors on the map.   
+• Offers an intuitive legend that explains the significance of different symbols and colors on the map.                          
+• Implemented a feature to mark earthquakes with a cross if they occurred in the past hour.
 
 ![085f37eb-1f6a-4644-9e42-b12944859a54](https://github.com/EmircanKartal/Earthquake-Visualizer-V-2.0/assets/88210656/dc0a611e-9c37-4ced-8ed9-58c6b738c7db)
 
